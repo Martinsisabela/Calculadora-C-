@@ -1,0 +1,14 @@
+c:\Users\Isabela\ProjetoCalculadora\obj\Debug\net8.0\ProjetoCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Isabela\ProjetoCalculadora\obj\Debug\net8.0\ProjetoCalculadora.AssemblyInfoInputs.cache
+c:\Users\Isabela\ProjetoCalculadora\obj\Debug\net8.0\ProjetoCalculadora.AssemblyInfo.cs
+c:\Users\Isabela\ProjetoCalculadora\obj\Debug\net8.0\ProjetoCalculadora.csproj.CoreCompileInputs.cache
+c:\Users\Isabela\ProjetoCalculadora\bin\Debug\net8.0\ProjetoCalculadora.exe
+C:\Users\Isabela\ProjetoCalculadora\bin\Debug\net8.0\ProjetoCalculadora.deps.json
+C:\Users\Isabela\ProjetoCalculadora\bin\Debug\net8.0\ProjetoCalculadora.runtimeconfig.json
+c:\Users\Isabela\ProjetoCalculadora\bin\Debug\net8.0\ProjetoCalculadora.dll
+c:\Users\Isabela\ProjetoCalculadora\bin\Debug\net8.0\ProjetoCalculadora.pdb
+c:\Users\Isabela\ProjetoCalculadora\obj\Debug\net8.0\ProjetoCalculadora.dll
+c:\Users\Isabela\ProjetoCalculadora\obj\Debug\net8.0\refint\ProjetoCalculadora.dll
+c:\Users\Isabela\ProjetoCalculadora\obj\Debug\net8.0\ProjetoCalculadora.pdb
+C:\Users\Isabela\ProjetoCalculadora\obj\Debug\net8.0\ProjetoCalculadora.genruntimeconfig.cache
+C:\Users\Isabela\ProjetoCalculadora\obj\Debug\net8.0\ref\ProjetoCalculadora.dll
